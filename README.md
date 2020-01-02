@@ -38,5 +38,5 @@ Don’t Go There! is a Jquery-based webapp specifically designed for users to fi
 * [Yelp Fusion](https://www.yelp.com/fusion)
 * [RapidAPI’s UrbanDictionary API](https://rapidapi.com/community/api/urban-dictionary)
 * Georgi Nikolov
-* [Jahaan Rashid] (https://www.github.com/jayrwebdev)
+* [Jahaan Rashid](https://www.github.com/jayrwebdev)
 * Fernando Peniche
